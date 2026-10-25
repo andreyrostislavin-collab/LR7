@@ -17,6 +17,7 @@ int main() {
      
     float x, y;
     printf("\nЗадание 2\n\n");
+    printf("Введите пример\n");
     printf("Итог примера:"); 
     
     scanf(" %f%c%f", &x, &c, &y);
